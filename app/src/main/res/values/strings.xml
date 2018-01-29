@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">No Assembly Required</string>
+    <string name="txtChoice">Choose a project</string>
+    <string name="txtBicycleOption">BICYCLE</string>
+    <string name="txtDresserOption">DRESSER</string>
+    <string name="txtPatioOption">PATIO</string>
+    <string name="txtToolsRequired">The following tools are required:</string>
+
+    <string name="txtToolsBicycle">
+        "- Allen Keys\n"
+        "- Screw Drivers (Flat and Phillips)\n"
+        "- Torx Keys\n"
+        "- Pedal Wrench\n"
+        "- Chain Breaker\n"
+        "- Tape Measure\n"
+        "- Torque Wrench\n"
+        "- Open End Wrench(s)\n"
+        "- Adjustable Wrench\n"
+        "- Needle Nose Pliers \n"
+        "- Mallet \n"
+
+    </string>
+    <string name="txtToolsDresser">
+        "- Screw Drivers (Flat and Phillips)\n"
+        "- Mallet\n"
+        "- Hammer\n"
+        "- Tape Measure\n"
+        "- Power Drill\n"
+        "- Wood Screws\n"
+        "- Nails\n"
+        "- Clamps\n"
+        "- Square\n"
+        "- Leveler\n"
+        "- Saw (Crosscut or Miter\n"
+        "- Sandpaper\n"
+    </string>
+
+    <string name="txtToolsPatio">
+        "- Screw Drivers (Flat and Phillips)\n"
+        "- Mallet\n"
+        "- Hammer\n"
+        "- Tape Measure\n"
+        "- Power Drill\n"
+        "- Wood Screws\n"
+        "- Nails\n"
+        "- Clamps\n"
+        "- Square\n"
+        "- Leveler\n"
+        "- Saw (Crosscut or Miter\n"
+        "- Sandpaper\n"
+
+    </string>
+
+
+    <string name="action_settings">Settings</string>
+</resources>
